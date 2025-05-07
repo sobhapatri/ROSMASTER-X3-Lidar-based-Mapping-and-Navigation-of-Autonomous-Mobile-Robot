@@ -33,7 +33,7 @@ We deployed a complete LIDAR and vision-based autonomous navigation stack using 
 - 📍 Successfully mapped a multi-room indoor space using GMapping and RTAB.
 - 🚗 Demonstrated reliable single-point and multi-point autonomous navigation.
 - 🔁 Real-time replanning and obstacle avoidance with dynamic costmap updates.
-- 🧩 Integrated hardware, SLAM, sensor fusion, path planning, and feedback visualization in a unified system.
+- 🧩 Integrated software-hardware, SLAM, sensor fusion, path planning, and feedback visualization in a unified system.
 
 ---
 
