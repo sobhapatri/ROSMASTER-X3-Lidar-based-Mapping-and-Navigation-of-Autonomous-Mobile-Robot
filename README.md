@@ -38,3 +38,16 @@ We deployed a complete LIDAR and vision-based autonomous navigation stack using 
 ---
 
 
+
+## 📽️ Project Demonstration Videos
+
+| Capability                       | Demo Link |
+|----------------------------------|-----------|
+| 🔍 **3D Mapping using RTAB-Map** | [Watch Video](https://youtu.be/9KygGnynMQQ) |
+| 🧭 **Single Point Navigation**   | [Watch Video](https://youtu.be/enwr66FXh1Y) |
+| 🚧 **Obstacle Avoidance**        | [Watch Video](https://youtu.be/-TieUhLNg78) |
+| 🗺️ **Multi-Point Path Execution**| [Watch Video](https://youtu.be/UOZeWhJ3Q-Y) |
+
+---
+
+
