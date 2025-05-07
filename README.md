@@ -43,10 +43,10 @@ We deployed a complete LIDAR and vision-based autonomous navigation stack using 
 
 | Capability                       | Demo Link |
 |----------------------------------|-----------|
-| 🔍 **3D Mapping using RTAB-Map** | [Watch Video](https://youtu.be/9KygGnynMQQ) |
-| 🧭 **Single Point Navigation**   | [Watch Video](https://youtu.be/enwr66FXh1Y) |
-| 🚧 **Obstacle Avoidance**        | [Watch Video](https://youtu.be/-TieUhLNg78) |
-| 🗺️ **Multi-Point Path Execution**| [Watch Video](https://youtu.be/UOZeWhJ3Q-Y) |
+| 🔍 **GMapping: 2D Point Cloud Map Generation of Autonomous Mobile Robot (ROSMASTER X3)** | [Watch Video](https://youtu.be/UOZeWhJ3Q-Y) |
+| 🧭 **Single Point Navigation (Point-to-Point) of Autonomous Mobile Robot (ROSMASTER X3)** | [Watch Video](https://youtu.be/-TieUhLNg78) |
+| 🗺️ **Multi-Point Navigation of Autonomous Mobile Robot (ROSMASTER X3)** | [Watch Video](https://youtu.be/enwr66FXh1Y) |
+| 🚧 **Obstacle Avoidance using Autonomous Mobile Robot (ROSMASTER X3)** | [Watch Video](https://youtu.be/9KygGnynMQQ) |
 
 ---
 
